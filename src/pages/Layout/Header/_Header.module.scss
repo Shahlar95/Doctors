@@ -1,0 +1,17 @@
+.header{
+    background-color: rgb(0, 128, 111);
+    padding: 20px;
+    ul{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        li{
+    padding:  10px 30px;
+            a{
+                color: #fff;
+                font-size: 20px;
+                font-weight: bold;
+            }
+        }
+    }
+}

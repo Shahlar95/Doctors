@@ -1,0 +1,200 @@
+{
+    "doctors": [
+    {
+    "id": 26,
+    "image": "https://admin.westhospital.az/uploads/images/doctors/artboa-1669296044.webp",
+    "name": "Sənəm Abdullayeva",
+    "profession": "Baş Həkim",
+    "about": " \r\nAbdullayeva Sənəm Sarif qızı 14 dekabr 1975-ci ildə Ağstafa rayonunda anadan olmuşdur. Orta məktəbi bitirdikdən sonra 1991-ci ildə Azərbaycan Tibb Universitetinə daxil olmuş və 1997-ci ildə fərqlən..."
+    },
+    {
+    "id": 3,
+    "image": "https://admin.westhospital.az/uploads/images/doctors/artboa-1661775948.webp",
+    "name": "Ayaz Hidayətov",
+    "profession": "Radioloq",
+    "about": "Avropa radioloji cəmiyyətinin üzvü olan radioloq Dr. Ayaz Hidayətov Azərbaycan Tibb Universitetinin müalicə işi fakultəsi funksional dioqnostika ixtisası üzrə təhsil almış, bununla yanaşı Türkiyədə Ga..."
+    },
+    {
+    "id": 27,
+    "image": "https://admin.westhospital.az/uploads/images/doctors/img-20-1669731208.webp",
+    "name": "Pərviz Aslanov",
+    "profession": "Otorinolarinqoloq",
+    "about": "Peşəkar həkim kollektivimizin daha bir üzvü, Otorinolarinqoloq Dr. Pərviz Aslanov. 1999-cu ildə Azərbaycan Tibb Universitetinə daxil olub, 2005-ci ildə oranı bitirmişdir. 2006 -cı ildə Klinik Uşaq Xəs..."
+    },
+    {
+    "id": 6,
+    "image": "https://admin.westhospital.az/uploads/images/doctors/artboa-1661776076.webp",
+    "name": "Fərqanə Məmmədli",
+    "profession": "Endokrinoloq",
+    "about": "1999-2005- ci illərdə Azərbaycan Tibb universitetində təhsil almış, daha sonra isə təhsilini Türkiyənin Ankara universiteti tibb fakultəsi, İbni Sina xəstəxanasında davam etdirmişdir. Bununla yanaşı 2..."
+    },
+    {
+    "id": 29,
+    "image": "https://admin.westhospital.az/uploads/images/doctors/ayaz-h-1670687809.webp",
+    "name": "Ayaz Hümbətov",
+    "profession": "Travmatoloq-Ortoped",
+    "about": " 1989-1995-ci illərdə Azərbaycan Tibb Universitetində Müalicə işi fakültəsini bitirmişdir. 1995-1996-ci illərdə internatura keçmişdir. 2000-2003-ci illərdə Respublika Elmi Artroloji Mərkəzi, Aspırantu..."
+    },
+    {
+    "id": 12,
+    "image": "https://admin.westhospital.az/uploads/images/doctors/artboa-1661776441.webp",
+    "name": "Nərmin Həsənli",
+    "profession": "Mama-ginekoloq",
+    "about": "2005-2011 ci illərdə Azerbaycan Tibb Universitetinin müalicə və profilaktika ixtisasını fərqlənmə diplomu bitirmiş, daha sonra isə, 2012-2017 ci ildə ATU Tədris cerrahiyyə klinikası mamalıq-ginekologi..."
+    },
+    {
+    "id": 19,
+    "image": "https://admin.westhospital.az/uploads/images/doctors/ﾅ榾-1670315145.webp",
+    "name": "Şəfa Həsənova",
+    "profession": "Otorinolarinqoloq",
+    "about": "1999-2006-cı illərdə Azərbaycan Dövlət Tibb Universitetində təhsil almışdır. Daha sonra 2014-2016-cı illərdə Ukraynanın Kiev şəhərində Şupik adına Akademiyada Klinik Ordinatura keçmişdir. Bir sıra özə..."
+    },
+    {
+    "id": 4,
+    "image": "https://admin.westhospital.az/uploads/images/doctors/artboa-1661775530.webp",
+    "name": "Emin Hüseynov",
+    "profession": "Ümumi cərrah-fleboloq",
+    "about": "2001-2007 ci illərdə Azərbaycan Tibb Universitetinin müalicə işi fakultəsini bitirdikdən sonra Rusiya Federasiyası Kazan Dövlət Tibb Universitetində internatura və ordinatura səviyyələrində təhsilini..."
+    },
+    {
+    "id": 7,
+    "image": "https://admin.westhospital.az/uploads/images/doctors/artboa-1661775708.webp",
+    "name": "Vüqar İsgəndərov",
+    "profession": "USM mütəxəssisi",
+    "about": "1993-cü ildə Azərbaycan Tibb Universitetinə daxil olmuşdur. Daha sonra isə milli ankoloji mərkəzində diaqnostika şöbəsində təhsilini davam etdirmişdir. 1999-2000 ci illərdə Milli Ankoloji mərkəzdə çal..."
+    },
+    {
+    "id": 5,
+    "image": "https://admin.westhospital.az/uploads/images/doctors/artboa-1661775886.webp",
+    "name": "Nəcibə Umudova",
+    "profession": "Fizioterapevt",
+    "about": "1987-1993 cü illərdə Azərbaycan Tibb Universitetinin müalicə işi fakültəsində təhsil almışdır. Bununla yanaşı ADHTİ-da dəfələrlə ixtisas artırma kurslarında iştirak etmişdir. 2000-2019 cu illərdə Mərk..."
+    },
+    {
+    "id": 8,
+    "image": "https://admin.westhospital.az/uploads/images/doctors/artboa-1661775625.webp",
+    "name": "Azər Aydınoğlu",
+    "profession": "Stomatoloq",
+    "about": "Beynəlxalq İmplantoloqlar Cəmiyyətinin üzvü stomatoloq Dr.Azər Aydınoğlu 2004-2009cu illərdə Azərbaycan Tibb Universitetinin Stomatologiya fakultəsində təhsil almışdır. Daha sonra isə Türkiyə və İsrai..."
+    },
+    {
+    "id": 10,
+    "image": "https://admin.westhospital.az/uploads/images/doctors/artboa-1695191107.webp",
+    "name": "Əli Əkbərov",
+    "profession": "Travmatoloq-ortoped",
+    "about": "2006-2012 ci illərdə Azərbaycan tibb Universitetinin Müalicə-profilaktika fakultəsini bitirmişdir. 2012-2017 ci illərdə Elmi Tədqiqat Travmatologiya və Ortopediya İnstitunda travmatoloq-ortoped ixtisa..."
+    },
+    {
+    "id": 16,
+    "image": "https://admin.westhospital.az/uploads/images/doctors/artboa-1661775675.webp",
+    "name": "Aynur Allahverdiyeva",
+    "profession": "Həkim laborant",
+    "about": "1995-2000 ci illərdə Azərbaycan Tibb Universitetində Tibbi-profilaktika fakultəsində təhsil almışdır. Uzun illər bir çox nüfuzlu kliniklarda və araşdırma mərkəzlərində çalışmış, beynəlxalq seminar və..."
+    },
+    {
+    "id": 17,
+    "image": "https://admin.westhospital.az/uploads/images/doctors/artboa-1663843298.webp",
+    "name": "Vüsal Vəliyev",
+    "profession": "Uzman Kardioloq",
+    "about": "2003-cü ildə Azərbaycan Tibb Universitetində \"Müalicə işi\" fakultəsinə qəbul olmuşdur. Təhsilini həmin ildən etibarən Gülhanə Hərbi Tibb Akademiyasında davam etdirmiş, 2010-cu ildə \"pratisyen həkim\" ü..."
+    },
+    {
+    "id": 18,
+    "image": "https://admin.westhospital.az/uploads/images/doctors/artboa-1661775826.webp",
+    "name": "Haqverdi Haqverdiyev",
+    "profession": "Nevropatoloq",
+    "about": "1985-ci ildə Nəriman Nərimanov adına Azərbaycan Tibb İnstitutundan həkim ixtisası üzrə məzun olmuşdur. 1989-cu ildə həkim-terapevt, 1991-ci ildə isə həkim-nevropatoloq vəzifəsində çalışmışdır. Bir çox..."
+    },
+    {
+    "id": 20,
+    "image": "https://admin.westhospital.az/uploads/images/doctors/artboa-1661775775.webp",
+    "name": "Aybəniz Veysəlova",
+    "profession": "Pediatr",
+    "about": "1996-2002 ci illərdə Azərbaycan Tibb Universitetində Pediatriya fakultəsində təhsil almışdır. Uzun müddət həkim pediatr kimi fəaliyyət göstərmiş, həmçinin 2013 cü ildən elmi pedoqoji fəaliyyətinə başl..."
+    },
+    {
+    "id": 21,
+    "image": "https://admin.westhospital.az/uploads/images/doctors/artboa-1661775643.webp",
+    "name": "Zahid Tahirov",
+    "profession": "Ümumi cərrah",
+    "about": "1971-1977-ci illərdə Azərbaycan Tibb Universitetinin Cərrahiyyə şöbəsini bitirmişdir. 1977-1978-ci illərdə ümumi cərrahiyyə üzrə təhsilini davam etdirmişdir. 1978-80-ci illərdə Rusiya Federasiyasının..."
+    },
+    {
+    "id": 23,
+    "image": "https://admin.westhospital.az/uploads/images/doctors/artboa-1663590279.webp",
+    "name": "Hikmət Nəzərov",
+    "profession": "Anestezioloq",
+    "about": "2002-2008-ci illərdə ATU-nun Müalicə-profilaktika fakültəsini bitirmişdir. 2008-2009- cu illərdə 1 sayli Kliniki Tibbi Xəstəxanada (Semaşko) Anesteziologiya-reanimatologiya üzrə internatura keçmişdir...."
+    },
+    {
+    "id": 25,
+    "image": "https://admin.westhospital.az/uploads/images/doctors/artboa-1666006572.webp",
+    "name": "Aysel Kərimova",
+    "profession": "Cərrah-Oftalmoloq",
+    "about": "2003-2009-cu illərdə Azərbaycan Tibb Universitetinin müalicə və profilaktika fakültəsini fərqlənmə diplomu ilə bitirmiş, 2009-2010-cu illərdə Akademik Zərifə Əliyeva adına Milli Oftalmologiya mərkəzin..."
+    },
+    {
+    "id": 31,
+    "image": "https://admin.westhospital.az/uploads/images/doctors/aytﾉ-1674457364.webp",
+    "name": "Aytən Səmədova",
+    "profession": "Terapevt",
+    "about": "Səmədova Aytən Dilman qızı 1978-ci ildə Bakı şəhərində anadan olmuşdur. 1995-ci ildə Zəngi liseyini bitirdikdən sonra Azərbaycan Tibb Universitetinin Müalicə işi fakültəsinə daxil olmuş və 2001-ci ild..."
+    },
+    {
+    "id": 32,
+    "image": "https://admin.westhospital.az/uploads/images/doctors/memmed-1686691752.webp",
+    "name": "Məmməd Vəliyev",
+    "profession": "Kardioloq",
+    "about": "\r\n\r\n\r\n\r\nMəmməd Vəliyev 1998-2004-cü illərdə Azərbaycan Tibb Universitetinin Müalicə profilaktika fakültəsində təhsil almışdır.\r\n \r\nMütəxəssis ürəyin işemik xəstəliyi, aritmiya, damarların ateroskleroz..."
+    },
+    {
+    "id": 34,
+    "image": "https://admin.westhospital.az/uploads/images/doctors/rentge-1688938342.webp",
+    "name": "Rüstəm Qasımov",
+    "profession": "Rentgenoloq",
+    "about": "Rüstəm Qasımov 1982-ci il 17 dekabr Polşa Respublikasının Jaqon şəhərində anadan olub. 2000-ci ildə Azərbaycan Tibb Universitetinə daxil olmuş, 2006-ci ildə bitirmişdir. 2009 -cu ildə Radiologiya ixti..."
+    },
+    {
+    "id": 36,
+    "image": "https://admin.westhospital.az/uploads/images/doctors/semed--1689582151.webp",
+    "name": "Səməd Səmədli",
+    "profession": "İnvaziv Uzman Kardioloq",
+    "about": "Səməd Səmədli Əlövsət oğlu 24.10.1977 tarixində Masallı rayonunda anadan olmuşdur.\r\n2004-cü ildə Türkiyə Respublikası Gülhanə Hərbi Tibb Akademiyasından \"Pratisyen həkim\" ünvanı ilə məzun olmuşdur.\r\n2..."
+    },
+    {
+    "id": 37,
+    "image": "https://admin.westhospital.az/uploads/images/doctors/img-20-1692623231.webp",
+    "name": "Ruhiyyə Abdullayeva",
+    "profession": "Anestezioloq-Reanimatoloq",
+    "about": "Abdullayeva Ruhiyyə Sabir qızı 1976-cı il avqustun 13-ü Sumqayıt şəhərində anadan olmuşdur. Orta təhsilini Sumqayıt Texniki ve Təbiət Elmləri Liseyində başa vuraraq 1993-cü ildə ATU-nun Müalice işi fa..."
+    },
+    {
+    "id": 38,
+    "image": "https://admin.westhospital.az/uploads/images/doctors/dr-ley-1692625239.webp",
+    "name": "Leyla Məsimova",
+    "profession": "Nevroloq, EEQ və EMQ üzrə mütəxəssis",
+    "about": "Uzm. Dr Leyla Məsimova 2005-2011-ci illərdə Azərbaycan Tibb Universitetinin Müalicə işi ixtisasında təhsil almış, 2017-ci ildə İnsult Trombolizi və Neyrovaskulyarizasiya Akademiyasında Nevroloq üzrə,..."
+    },
+    {
+    "id": 39,
+    "image": "https://admin.westhospital.az/uploads/images/doctors/dr-ana-1692625762.webp",
+    "name": "Anar Namazov",
+    "profession": "Bariatrik cərrah",
+    "about": "Həkim artıq çəki patologiyalarının diaqnostikası və cərrahi müalicəsi ilə məşğul olur. Mərkəzi Klinik Xəstəxananın cərrahiyyə şöbəsinin müdiri və baş həkimin müavini vəzifələrində çalışmışdır. Bu müdd..."
+    },
+    {
+    "id": 40,
+    "image": "https://admin.westhospital.az/uploads/images/doctors/artboa-1698997057.webp",
+    "name": "İnar Seidov",
+    "profession": "Travmatoloq-Ortoped",
+    "about": "2000-2005- ci illərdə Azərbaycan Tibb universitetində təhsil almış, daha sonra isə təhsilini Almaniyanın  Frankfurt şəhərində «Johann Wolfgang von Goehte» adına universiteti tibb fakultəsində davam et..."
+    },
+    {
+    "id": 41,
+    "image": "https://admin.westhospital.az/uploads/images/doctors/artboa-1703147012.webp",
+    "name": "Nurulla Hüseynov",
+    "profession": "Nefroloq",
+    "about": "2003-2009-cu illərdə Azərbaycan Tibb universitində müalicə işi üzrə təhsil almışdır. 2009-2010-cu illərdə Mərkəzi klinikada internatura keçərək Nefroloq kimi fəaliyyətə başlamışdır. 2010-2014-cü illər..."
+    }
+    ]
+    }

@@ -1,0 +1,44 @@
+.car {
+    background-color: rgba(0, 0, 0, 0.795);
+    padding: 0px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    .img {
+        margin: 50px 0;
+        overflow: hidden;
+        width: 500px;
+        height: 300px;
+        border-radius: 5px;
+
+        img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+    }
+
+    .text {
+        margin: 50px;
+
+        input {
+            padding: 10px 20px;
+            &.empty{
+                border: 2px solid red;
+            }
+        }
+
+        button {
+            border: none;
+            padding: 12px 20px;
+            background-color: blueviolet;
+            color: #fff;
+
+            
+        }
+
+    }
+}

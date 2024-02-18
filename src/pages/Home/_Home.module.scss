@@ -1,0 +1,20 @@
+.doctors{
+    margin: 50px 0;
+
+
+  .more{
+    text-align: center;
+    margin: 40px 0;
+    button{
+        border: none;
+        padding: 10px 30px;
+        background-color: rgb(0, 128, 111);
+        color: #fff;
+        border-radius: 5px;
+       
+    }
+    &.passiv{
+      display: none;
+    }
+  }
+}

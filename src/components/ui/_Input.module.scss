@@ -1,0 +1,33 @@
+.enter{
+   
+    
+        margin: 50px;
+        
+        .search{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+
+        }
+        select{
+            padding: 12px;
+            border: 1px solid rgb(0, 128, 111);
+            background-color: rgba(128, 128, 128, 0.178);
+            border-radius: 5px;
+            color: rgba(0, 0, 0, 0.664);
+            font-weight: bold;
+            
+           
+           
+        }
+
+        input{
+            width: 60%;
+            border: 1px solid rgb(0, 128, 111);
+            border-radius: 5px;
+            padding: 10px;
+            background-color: rgba(128, 128, 128, 0.178);
+            
+        }
+    }
+    
