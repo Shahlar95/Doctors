@@ -19,7 +19,7 @@ function Home() {
    
 
 
-    const API_URL = 'http://localhost:7777'
+    const API_URL = 'https://json-server-for-for-vercel.vercel.app'
 
     const getPosts = async () => {
         setIsLoading(true)

@@ -8,7 +8,7 @@ function DoctorsAbout() {
     const [error, setError] = useState()
 
 
-    const API_URL = 'http://localhost:7777/doctors'
+    const API_URL = 'https://json-server-for-for-vercel.vercel.app/doctors'
 
     const getPost = async () => {
         // setIsLoading(true)
